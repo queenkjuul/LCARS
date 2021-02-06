@@ -1,0 +1,9 @@
+WELCOME TO LCARS 7.10
+by Queen K Juul
+
+NOTES for image mounting options
+MORENOTE for detailed information
+
+If you selected the FAST boot option, you can run:
+
+RAMSTALL to copy disk to ram drive for faster operation
