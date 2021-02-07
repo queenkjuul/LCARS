@@ -8,7 +8,6 @@ ECHO you can mount floppy images like
 ECHO      fmount /F:\path\to\image.img
 ECHO and you can unmount all virtual floppies like
 ECHO      fmount /u
-ECHO
 ECHO For standard CD-ROM operations, use
 ECHO      SHSUCDX
 ECHO as a drop-in replacement for MSCDEX (same syntax)
